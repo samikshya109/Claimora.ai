@@ -209,9 +209,6 @@ VITE_SUPABASE_KEY=your_supabase_key
 - [ ] Multi-language support
 - [ ] Mobile app (React Native)
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Support
 
@@ -225,9 +222,9 @@ For questions or support, please contact:
 - Designed with privacy and security in mind
 
 ## Team
-Product Owner: Debmalya Sarkar
-Design Lead: Samikshya Satpathy
-Engineering Lead: Suvrorup Mukherjee
+- Product Owner: Debmalya Sarkar
+- Design Lead: Samikshya Satpathy
+- Engineering Lead: Suvrorup Mukherjee
 
 ---
 
