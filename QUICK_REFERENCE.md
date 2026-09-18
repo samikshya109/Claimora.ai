@@ -82,7 +82,7 @@ URL: https://proximate-ai.vercel.app
 
 Development:
 ────────────
-pnpm run dev              # Start dev server (localhost:5173)
+pnpm run dev              # Start dev server (localhost:5174)
 
 Production:
 ───────────

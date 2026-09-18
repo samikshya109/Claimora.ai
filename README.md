@@ -76,7 +76,7 @@ pnpm run dev
 
 4. **Open your browser:**
 ```
-http://localhost:5173
+http://localhost:5174
 ```
 
 ### Build for Production

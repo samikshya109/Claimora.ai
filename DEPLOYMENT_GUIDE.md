@@ -111,7 +111,7 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
 pnpm run dev
 ```
 
-Visit http://localhost:5173 to see your app running locally.
+Visit http://localhost:5174 to see your app running locally.
 
 ## Step 3: Build for Production
 
