@@ -23,7 +23,17 @@ Claimora prioritizes **clarity, accessibility, and trust**—essential for legal
 
 **→ [View Full Design System & Process](./DESIGN.md)**
 
-## Features
+## Overview
+
+Fraud Claims is a web-based platform designed to streamline insurance fraud reporting and claims management. The application provides users with a clear, step-by-step submission process and real-time claim tracking with transparency into investigation status.
+
+## Key Features
+5-Step Claim Submission - Streamlined process (< 5 minutes)
+Real-Time Claim Tracking - Dashboard with status updates and timeline
+Evidence Management - Drag-and-drop document uploads
+Transparent Tracking - Know exactly where your claim stands
+Mobile-First Design - Optimized for all devices
+Accessible Interface - WCAG AA compliant
 
 ✨ **Smart Analysis** - AI examines evidence and identifies key FCA elements automatically
 🎯 **Gap Detection** - Discovers weaknesses and provides actionable recommendations
@@ -41,6 +51,13 @@ Claimora prioritizes **clarity, accessibility, and trust**—essential for legal
 ✓ **Motion Safety** - Respects `prefers-reduced-motion` preference
 ✓ **Touch Friendly** - 44x44px minimum touch targets
 ✓ **Focus Indicators** - Clear, visible focus states on all interactive elements
+
+## Success Metrics
+85%+ claim submission completion rate
+< 5 min average submission time
+4.5+/5 user satisfaction rating
+30% reduction in support tickets
+60%+ mobile user traffic
 
 ## Tech Stack
 
@@ -192,10 +209,6 @@ VITE_SUPABASE_KEY=your_supabase_key
 - [ ] Multi-language support
 - [ ] Mobile app (React Native)
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -203,14 +216,18 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Support
 
 For questions or support, please contact:
-- Email: support@claimora.com
-- Issues: [GitHub Issues](https://github.com/yourusername/claimora/issues)
+- Email: samikshyawork@gmail.com
 
 ## Acknowledgments
 
 - Built for legal professionals who value precision
 - Powered by modern web technologies
 - Designed with privacy and security in mind
+
+## Team
+Product Owner: Debmalya Sarkar
+Design Lead: Samikshya Satpathy
+Engineering Lead: Suvrorup Mukherjee
 
 ---
 
