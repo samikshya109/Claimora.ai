@@ -1,10 +1,27 @@
 # Claimora
 
-A modern AI-powered legal intelligence platform for analyzing False Claims Act (FCA) cases. Built with React, TypeScript, and Tailwind CSS.
+> **AI-powered legal intelligence platform** that transforms weeks of case analysis into minutes.
+
+A modern, design-forward platform helping qui tam attorneys assess False Claims Act (FCA) cases with confidence. Built with React, TypeScript, Tailwind CSS, and thoughtful UX design.
 
 ![Claimora](https://img.shields.io/badge/React-18.3.1-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.1-06B6D4)
+![Accessibility](https://img.shields.io/badge/WCAG-2.1%20AA-green)
+![Design System](https://img.shields.io/badge/Design%20System-v1.0-teal)
+
+---
+
+## 🎨 Design-First Approach
+
+Claimora prioritizes **clarity, accessibility, and trust**—essential for legal professionals handling sensitive cases.
+
+- **Design System:** Comprehensive color palette, typography scale, and component library
+- **Accessibility:** WCAG 2.1 AA compliant, keyboard navigation, screen reader support
+- **User Research:** Designed with qui tam attorneys and paralegals through iterative testing
+- **Design-to-Code:** Figma → React with bidirectional design token sync
+
+**→ [View Full Design System & Process](./DESIGN.md)**
 
 ## Features
 
@@ -14,6 +31,16 @@ A modern AI-powered legal intelligence platform for analyzing False Claims Act (
 🗺️ **Evidence Heatmap** - Visual mapping of evidence across FCA elements
 📝 **Memo Generation** - Automated case memo creation
 🔒 **Secure & Private** - End-to-end encryption and attorney-client privilege protection
+♿ **Accessible Design** - WCAG 2.1 AA compliant, keyboard navigation, screen reader support
+
+## Accessibility Highlights
+
+✓ **Color Contrast** - 4.5:1 ratio for all text (exceeds WCAG AA)
+✓ **Keyboard Navigation** - 100% navigable without mouse
+✓ **Screen Reader Support** - Semantic HTML + ARIA labels
+✓ **Motion Safety** - Respects `prefers-reduced-motion` preference
+✓ **Touch Friendly** - 44x44px minimum touch targets
+✓ **Focus Indicators** - Clear, visible focus states on all interactive elements
 
 ## Tech Stack
 
