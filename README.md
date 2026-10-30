@@ -2,6 +2,8 @@
 
 > **AI-powered legal intelligence platform** that transforms weeks of case analysis into minutes.
 
+View the project here: https://claimoraaicasestudy.vercel.app/
+
 A modern, design-forward platform helping qui tam attorneys assess False Claims Act (FCA) cases with confidence. Built with React, TypeScript, Tailwind CSS, and thoughtful UX design.
 
 ![Claimora](https://img.shields.io/badge/React-18.3.1-blue)
